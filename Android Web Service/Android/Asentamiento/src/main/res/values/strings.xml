@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">WSAsentamiento</string>
+    <string name="guardar">Guardar</string>
+    <string name="listar">Listar</string>
+    <string name="name">Name</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="type">Type</string>
+    <string name="price">Price</string>
+    <string name="regress">regress</string>
+    <string name="action_settings">action_settings</string>
+    <string name="eliminar">eliminar</string>
+    <string name="modificar">modificar</string>
+    <string name="item">item</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="activo">Activo</string>
+    <string name="regresar">regresar</string>
+    <string name="name_app">WSAreaGradoExtracurricular</string>
+    <string name="nameM">Name</string>
+    <string name="age">Age</string>
+    <string name="description">Description</string>
+    <string name="typeM">Type</string>
+    <string name="sing">Sing</string>
+    <string name="color">Color</string>
+    <string name="codigo_postal">Codigo Postal</string>
+    <string name="consecutivo">Consecutivo</string>
+    <string name="inactivo">Inactivo</string>
+    <string name="clave_de_estado">Clave de Estado</string>
+    <string name="asentamiento">Asentamiento</string>
+    <string name="municipio">Municipio</string>
+    <string name="tipo">Tipo</string>
+    <string name="ciudad">Ciudad</string>
+</resources>

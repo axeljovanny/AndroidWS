@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_codigo"
+        android:inputType="text"
+        android:hint="@string/codigo_postal"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_consecutivo"
+        android:inputType="number"
+        android:hint="@string/consecutivo"
+        />
+
+    <ToggleButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textOn="@string/activo"
+        android:textOff="@string/inactivo"
+        android:id="@+id/tb_activo"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_cve_estado"
+        android:inputType="number"
+        android:hint="@string/clave_de_estado"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_asentamiento"
+        android:inputType="text"
+        android:hint="@string/asentamiento"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_municipio"
+        android:inputType="text"
+        android:hint="@string/municipio"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_tipo"
+        android:inputType="text"
+        android:hint="@string/tipo"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_ciudad"
+        android:inputType="number"
+        android:hint="@string/ciudad"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:layout_margin="@dimen/margin_button"
+            android:layout_width="@dimen/whidth_button"
+            android:layout_height="wrap_content"
+            android:text="@string/guardar"
+            android:id="@+id/bt_save"
+            android:background="@color/colorPrimary"
+            android:textColor="#fff"
+            />
+        <Button
+            android:layout_margin="@dimen/margin_button"
+            android:layout_width="@dimen/whidth_button"
+            android:layout_height="wrap_content"
+            android:text="@string/listar"
+            android:id="@+id/bt_list"
+            android:background="@color/colorAccent"
+            android:textColor="#fff"
+            />
+    </LinearLayout>
+</LinearLayout>
