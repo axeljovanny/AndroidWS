@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WSMovie</string>
+    <string name="guardar">Guardar</string>
+    <string name="listar">Listar</string>
+    <string name="name">Name</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="type">Type</string>
+    <string name="price">Price</string>
+    <string name="regress">regress</string>
+    <string name="action_settings">action_settings</string>
+    <string name="eliminar">eliminar</string>
+    <string name="modificar">modificar</string>
+    <string name="item">item</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="activo">Activo</string>
+    <string name="regresar">regresar</string>
+    <string name="name_app">WSAreaGradoExtracurricular</string>
+    <string name="nameM">Name</string>
+    <string name="age">Age</string>
+    <string name="description">Description</string>
+    <string name="typeM">Type</string>
+    <string name="sing">Sing</string>
+    <string name="color">Color</string>
+    <string name="save">guardar</string>
+    <string name="list">listar</string>
+    <string name="last">Last Name</string>
+    <string name="nick">Nick Name</string>
+    <string name="speed">Speed</string>
+</resources>
